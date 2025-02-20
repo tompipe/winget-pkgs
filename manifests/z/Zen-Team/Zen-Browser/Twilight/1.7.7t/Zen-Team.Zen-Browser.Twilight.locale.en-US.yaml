@@ -1,4 +1,4 @@
-# Created with komac v2.10.1
+# Created with komac v2.11.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.9.0.schema.json
 
 PackageIdentifier: Zen-Team.Zen-Browser.Twilight
@@ -29,12 +29,10 @@ Tags:
 - zen
 ReleaseNotes: |-
   Commits
-  - 290aa09: Small urlbar improvements (mr. m)
-  - f246054: Added outline to urlbar when floating (mr. m)
-  - 7cf0e05: Fixed normal tabs appear on pinned tab container (mr. m)
-  - c058950: Formatted the project (mr. m)
-  - 6600e60: Fixed showing wrong tab when changing workspaces (mr. m)
-  - 48badb8: Fixed creating a new tab when we can just select the last one when switching workspaces (mr. m)
+  - 5f72835: Set gfx.canvas.accelerated.cache-size to 256 by default (Jupi) #5342
+  - 855c362: Refactor tab overflow detection and adjust workspace initialization logic (mr. M)
+  - 48879fb: Enhance workspace tab initialization and update tab toolbar on load (mr. M)
+  - 07ede1b: Add Windows acrylic support and enhance toolbar transparency styles (mr. M)
 ReleaseNotesUrl: https://github.com/zen-browser/desktop/releases/tag/twilight
 Documentations:
 - DocumentLabel: About

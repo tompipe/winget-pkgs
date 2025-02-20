@@ -24,19 +24,19 @@ FileExtensions:
 - webp
 - xht
 - xhtml
-ReleaseDate: 2025-02-10
+ReleaseDate: 2025-02-19
 Installers:
 - Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/136.0b4/win32/fy-NL/Firefox%20Setup%20136.0b4.exe
-  InstallerSha256: 79A933616DD1E59AFCDFA3DD53D7AA2D304DA79769B66ABBD9D8F271F7423A45
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/136.0b8/win32/fy-NL/Firefox%20Setup%20136.0b8.exe
+  InstallerSha256: E520183C14DE961C9949791B75AA2ADD5A77A8ED02463C5146F337C3C13E5213
   ProductCode: Firefox Developer Edition 136.0 (x86 fy-NL)
 - Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/136.0b4/win64/fy-NL/Firefox%20Setup%20136.0b4.exe
-  InstallerSha256: 1CF36B7D943A8913C7F41D2AA88A3BB81E54B3ADD8EB862CD144126EEA292160
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/136.0b8/win64/fy-NL/Firefox%20Setup%20136.0b8.exe
+  InstallerSha256: 5B9C3F5344C2AA9FF384A39E5CD6945936DA6234CF47AAD4252FAF335F4B245E
   ProductCode: Firefox Developer Edition 136.0 (x64 fy-NL)
 - Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/136.0b4/win64-aarch64/fy-NL/Firefox%20Setup%20136.0b4.exe
-  InstallerSha256: FA6AED79F33B8B77944D11D051646487BE2F386C4B967F2EB73D326D3C93CFE2
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/136.0b8/win64-aarch64/fy-NL/Firefox%20Setup%20136.0b8.exe
+  InstallerSha256: 6D11ED08EC64880D7C59FCF55D13EF85F689DF22E2DA1A5C4A480035725E11B1
   ProductCode: Firefox Developer Edition 136.0 (arm64 fy-NL)
 ManifestType: installer
 ManifestVersion: 1.9.0
