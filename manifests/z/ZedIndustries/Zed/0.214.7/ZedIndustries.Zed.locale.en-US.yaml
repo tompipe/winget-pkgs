@@ -1,8 +1,8 @@
-# Created with WinGet Releaser using komac v2.13.0
+# Created with WinGet Releaser using komac v2.14.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.10.0.schema.json
 
 PackageIdentifier: ZedIndustries.Zed
-PackageVersion: 0.213.4
+PackageVersion: 0.214.7
 PackageLocale: en-US
 Publisher: Zed Industries
 PublisherUrl: https://zed.dev/
@@ -30,10 +30,8 @@ Tags:
 - developer-tools
 - editor
 - text-editor
-ReleaseNotes: |-
-  - Fixed issue where copying a screenshot from apps like CleanShot X into Agent Panel didn't work as expected. (#43255)
-  - Fixed an issue in the Project Panel where duplicating or creating an entry sometimes didn’t focus the rename editing field. (#43130)
-ReleaseNotesUrl: https://github.com/zed-industries/zed/releases/tag/v0.213.4
+ReleaseNotes: '- Fixed git gutter incorrectly showing up for ignored files. (#43777)'
+ReleaseNotesUrl: https://github.com/zed-industries/zed/releases/tag/v0.214.7
 PurchaseUrl: https://zed.dev/pricing
 Documentations:
 - DocumentLabel: Community Links
